@@ -1,6 +1,7 @@
 {
     "name": "Ak-Bot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
+    "stack": "heroku-22"
     "logo": "https://telegra.ph/file/87fd3f1437dbd06644b20.jpg",
     "keywords": [
       "telegram",
