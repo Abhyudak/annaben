@@ -12,10 +12,10 @@ telegraph
 youtube-dl
 youtube_search
 googletrans
-aiohttp==3.7.4
+aiohttp
 requests
 ffmpeg-python
-pytgcalls==0.0.17
+pytgcalls
 wheel
 psutil
 tgintegration
@@ -28,4 +28,4 @@ pyromod
 yt_dlp
 tswift
 datetime
-py-tgcalls==0.8.2
+py-tgcalls
