@@ -6,7 +6,7 @@ Very Simple 𝐀𝐊 𝐀ᴜᴛᴏ 𝐅ɪʟᴛᴇʀ𝐁ᴏᴛ
 
 
 
-[![Deploy](https://telegra.ph/file/18bec454cb18ba0a811fc.jpg))](https://heroku.com/deploy?template=https://github.com/Abhyudak/Filterbot)                                                    
+[![Deploy](https://telegra.ph/file/18bec454cb18ba0a811fc.jpg))](https://heroku.com/deploy?template=https://github.com/Abhyudak/annaben)                                                    
 ## Features
 
 - [x] Auto Filter
