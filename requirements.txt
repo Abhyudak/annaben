@@ -52,3 +52,9 @@ Heroku3
 speedtest
 pyyaml
 Shazamio
+pyshorteners
+aiofiles
+pyromod
+yt_dlp
+tswift
+datetime
