@@ -20,7 +20,6 @@ youtube-dl
 yt-dlp
 wget
 python-arq
-ffmpeg-python
 ffmpeg
 avconv
 requests
