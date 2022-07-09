@@ -21,7 +21,7 @@ yt-dlp
 wget
 python-arq
 ffmpeg
-avconv
+ffmpeg-python
 requests
 ytthumb
 NumPy
