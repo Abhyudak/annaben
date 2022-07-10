@@ -52,7 +52,6 @@ yt-dlp
 Heroku3
 speedtest
 pyyaml
-Shazamio
 pyshorteners
 aiofiles
 pyromod
