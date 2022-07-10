@@ -14,8 +14,8 @@ class script(object):
 ║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎2 - <a href="https://t.me/ToxicboymX">🅃🄾🅇🄸🄲 ⒷⓄⓎ🕊</a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - <a href="https://t.me/AkvMovieHub">Private DB</a>
-║┣⪼ 𝓑𝓸𝓽 𝓼𝓮𝓻𝓿𝓮𝓻 - <a href="https://t.me/AkvMovieHub">Private SERVER</a>
+║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - <a href="https://t.me/AkvMovieHub">𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗗𝗕</a>
+║┣⪼ 𝓑𝓸𝓽 𝓼𝓮𝓻𝓿𝓮𝓻 - <a href="https://t.me/AkvMovieHub">𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗦𝗲𝗿𝘃𝗲𝗿</a>
 ║┣⪼ 𝓑𝓾𝓲𝓵𝓭 𝓢𝓽𝓪𝓽𝓾𝓼 - v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪
   
@@ -44,7 +44,7 @@ Just for a rasam😂"""
 Song Download
 Song Download Module, For Those Who Love Music
 
-🎈 Command
+🎈 Cᴏᴍᴍᴀɴᴅs
 
 • /song or /mp3 (songname) - download song from yt servers.
 • /video or /mp4 (songname) - download video from yt servers
@@ -99,7 +99,7 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- tgmoviebot support both url and alert inline buttons.
+- Aᴋ-FɪʟᴛᴇʀBᴏᴛ support both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
@@ -264,7 +264,7 @@ This module only works for my admins
 
 __🗣 In Order To Get The Movie Requested By You in Our Groups, You Will Have To Join Our Official Channel First. After That, Try Accessing That Movie Again From Our Group. I'll Send You That Movie Privately 🙈__
 
-**👇 JOIN THIS CHANNEL & TRY AGAIN 👇**"""
+**👇 𝐉𝐎𝐈𝐍 𝐓𝐇𝐈𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 & 𝐓𝐑𝐘 𝐀𝐆𝐀𝐈𝐍 👇**"""
 
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
